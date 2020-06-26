@@ -14,7 +14,7 @@ The Digital Notebook Method streamlines the linguistic elicitation session, empl
 
 # Resources
 
-[Data Merger script](https://github.com/rgriscom/Digital-Notebook-Method/tree/master/Data%20Merger) - The script used in the Digital Notebook Method to combine text and timecode data and output in .EAF, .TextGrid, and .TXT formats.
+[Data Merger script](https://github.com/rgriscom/Digital-Notebook-Method/tree/master/Data%20Merger) - The script used in the Digital Notebook Method to combine text and timecode data and output in .EAF, .TextGrid, and .TXT formats. Also available as a [Google Colab Notebook](https://colab.research.google.com/drive/1k_mI4tPUCHVNq_m9_J62fcUVjcuHY7Qb?usp=sharing).
 
 [Demonstration files](https://github.com/rgriscom/Digital-Notebook-Method/tree/master/Demonstration%20files) - Sample audio and text files used in the video demonstration, packaged together with the Data Merger script.
 
